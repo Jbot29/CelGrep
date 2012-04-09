@@ -6,4 +6,6 @@ Using:
 
 in celgrepconfig.js edit the ssh user name, and the list of servers.
 
+$ node celgrep.js
+
 Then connect to http://localhost:8888
