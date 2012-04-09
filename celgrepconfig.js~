@@ -1,0 +1,5 @@
+settings = {
+    dpath: '/var/log/celery*',
+    user: 'panama',
+    servers: ['garfield.mapmyfitness.com', 'kennedy.mapmyfitness.com', 'lincoln.mapmyfitness.com', 'rsuwsgi04.mapmyfitness.com']
+}
